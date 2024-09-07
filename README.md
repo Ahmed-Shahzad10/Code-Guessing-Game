@@ -1,6 +1,6 @@
 
 
-# Secret Binary Code Guessing Game
+# Secret Binary Code Guessing Game in C++
 
 Welcome to the Secret Binary Code Guessing Game! This fun and interactive program aims to identify a secret binary code of length `n` using the minimum number of queries. Dive into the details below to learn more about the project.
 
